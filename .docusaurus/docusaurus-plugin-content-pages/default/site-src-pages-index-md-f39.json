@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/",
+  "source": "@site/src/pages/index.md",
+  "title": "Introduction",
+  "description": "<meta",
+  "frontMatter": {
+    "title": "Introduction",
+    "hide_table_of_contents": true
+  }
+}

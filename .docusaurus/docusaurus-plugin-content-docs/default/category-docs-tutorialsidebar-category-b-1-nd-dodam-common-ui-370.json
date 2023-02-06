@@ -1,0 +1,15 @@
+{
+  "title": "@b1nd-dodam-common-ui",
+  "slug": "/category/b1nd-dodam-common-ui",
+  "permalink": "/docs/category/b1nd-dodam-common-ui",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/docs/b1nd-design-core/congratulations"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}

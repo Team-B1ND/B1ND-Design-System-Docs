@@ -1,0 +1,24 @@
+{
+  "unversionedId": "b1nd-styled-components-theme/asdsadad",
+  "id": "b1nd-styled-components-theme/asdsadad",
+  "title": "asdsadad",
+  "description": "",
+  "source": "@site/docs/b1nd-styled-components-theme/asdsadad.md",
+  "sourceDirName": "b1nd-styled-components-theme",
+  "slug": "/b1nd-styled-components-theme/asdsadad",
+  "permalink": "/docs/b1nd-styled-components-theme/asdsadad",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/b1nd-styled-components-theme/asdsadad.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "@b1nd/b1nd-styled-components-theme",
+    "permalink": "/docs/category/b1ndb1nd-styled-components-theme"
+  },
+  "next": {
+    "title": "@b1nd/b1nd-styled-components-util",
+    "permalink": "/docs/category/b1ndb1nd-styled-components-util"
+  }
+}

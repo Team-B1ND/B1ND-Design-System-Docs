@@ -1,0 +1,113 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "b1nd-design-core/congratulations",
+              "path": "/docs/b1nd-design-core/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "b1nd-design-core/create-a-blog-post",
+              "path": "/docs/b1nd-design-core/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "b1nd-design-core/create-a-document",
+              "path": "/docs/b1nd-design-core/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "b1nd-design-core/create-a-page",
+              "path": "/docs/b1nd-design-core/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "b1nd-design-core/deploy-your-site",
+              "path": "/docs/b1nd-design-core/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "b1nd-design-core/markdown-features",
+              "path": "/docs/b1nd-design-core/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "b1nd-dodam-common-ui/manage-docs-versions",
+              "path": "/docs/b1nd-dodam-common-ui/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "b1nd-dodam-common-ui/translate-your-site",
+              "path": "/docs/b1nd-dodam-common-ui/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "b1nd-react-util/asdad",
+              "path": "/docs/b1nd-react-util/asdad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "b1nd-styled-components-theme/asdsadad",
+              "path": "/docs/b1nd-styled-components-theme/asdsadad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "b1nd-styled-components-util/asdsad",
+              "path": "/docs/b1nd-styled-components-util/asdsad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/b1ndb1nd-design-core",
+              "path": "/docs/category/b1ndb1nd-design-core",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/b1ndb1nd-dodam-common-ui",
+              "path": "/docs/category/b1ndb1nd-dodam-common-ui",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/b1ndb1nd-react-util",
+              "path": "/docs/category/b1ndb1nd-react-util",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/b1ndb1nd-styled-components-theme",
+              "path": "/docs/category/b1ndb1nd-styled-components-theme",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/b1ndb1nd-styled-components-util",
+              "path": "/docs/category/b1ndb1nd-styled-components-util",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

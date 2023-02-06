@@ -1,0 +1,16 @@
+{
+  "title": "@b1nd/b1nd-styled-components-theme",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/b1ndb1nd-styled-components-theme",
+  "permalink": "/docs/category/b1ndb1nd-styled-components-theme",
+  "navigation": {
+    "previous": {
+      "title": "asdad",
+      "permalink": "/docs/b1nd-react-util/asdad"
+    },
+    "next": {
+      "title": "asdsadad",
+      "permalink": "/docs/b1nd-styled-components-theme/asdsadad"
+    }
+  }
+}
