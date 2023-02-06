@@ -66,8 +66,8 @@ const config = {
       navbar: {
         title: "Form B1nding",
         logo: {
-          alt: "My Site Logo",
-          src: "img/logo.svg",
+          alt: "B1nd Logo",
+          src: "img/dodamLogo.svg",
         },
         items: [
           {
