@@ -3,6 +3,6 @@
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "프로덕트를 개발할때 자주 사용하는 훅이나, 유틸 컴포넌트를 제공합니다."
   }
 }

@@ -3,6 +3,6 @@
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "styled-components 테마(다크모드, 라이트모드)를 제공합니다."
   }
 }
