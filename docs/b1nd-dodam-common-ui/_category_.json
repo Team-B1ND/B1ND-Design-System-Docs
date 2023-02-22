@@ -2,6 +2,7 @@
   "label": "@b1nd/b1nd-dodam-common-ui",
   "position": 2,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "프로덕트를 개발할때 자주 사용되는 컴포넌트를 제공합니다."
   }
 }
