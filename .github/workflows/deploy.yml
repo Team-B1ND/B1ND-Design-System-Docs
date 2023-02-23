@@ -1,4 +1,4 @@
-name: Deploy to Vercel
+name: Deploy to Github Pages
 
 on:
   push:
@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Deploy to GitHub Pages
-          uses: peaceiris/actions-gh-pages@v3
-          with:
-            github_token: ${{ secrets.DOCS_GITHUB_TOKEN }}
-            publish_dir: ./build
-            user_name: github-actions[bot]
-            user_email: 41898282+github-actions[bot]@users.noreply.github.com
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.DOCS_GITHUB_TOKEN }}
+          publish_dir: ./build
+          user_name: github-actions[bot]
+          user_email: 41898282+github-actions[bot]@users.noreply. ithub.com
