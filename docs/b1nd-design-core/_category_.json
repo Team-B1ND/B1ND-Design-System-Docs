@@ -1,8 +1,0 @@
-{
-  "label": "@b1nd/b1nd-design-core",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "프로덕트를 디자인할때 필요한 코어적인 디자인 요소를 제공합니다."
-  }
-}

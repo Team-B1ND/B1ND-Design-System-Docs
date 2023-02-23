@@ -1,8 +1,0 @@
-{
-  "label": "@b1nd/b1nd-styled-components-util",
-  "position": 5,
-  "link": {
-    "type": "generated-index",
-    "description": "styled-components를 사용할 때 유용한 함수나, 애니메이션 등을 제공합니다."
-  }
-}
