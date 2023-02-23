@@ -16,11 +16,10 @@ hide_table_of_contents: true
 <head>
   <meta property="og:title" content="Form B1nding" />
   <meta
-    property="og:description"
-    content="A collection of TypeScript/JavaScript packages to build high-quality web services."
+    property="og:description" 
+    content="UI 컴포넌트, Util 함수, Animation 등 프로덕트를 개발하는데 유용한 여러 패키지를 제공하는 바인드 프론트엔드 팀 디자인시스템 입니다."
   />
-  <meta property="og:url" content="https://slash.page" />
-  <meta property="og:image" content="https://static.toss.im/assets/slash-libraries/slash-og.png" />
+  <meta property="og:url" content="https://team-b1nd.github.io/Form-B1nding-Docs/" />
 </head>
 
 <div className="mainpage_hero">
