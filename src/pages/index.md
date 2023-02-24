@@ -3,13 +3,7 @@ title: Introduction
 hide_table_of_contents: true
 ---
 
-<div class="jumbotron">
-  <div class="jumbotron-inner-wrapper">
-    <div class="jumbotron-shadow left"></div>
-   
-    <div class="jumbotron-shadow right"></div>
-  </div>
-</div>
+![BannerImage](../../static/img/banner.svg)
 
 # Form B1nding
 
@@ -39,40 +33,6 @@ hide_table_of_contents: true
 .mainpage_hero {
   display: grid;
 }
-
-.jumbotron {
-  width: 100%;
-  height: 200px;
-  border-radius: 16px;
-  background: black;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 36px;
-  overflow: hidden;
-}
-
-.jumbotron-shadow {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  width: 25px;
-}
-
-.jumbotron-shadow.left {
-  left: 0;
-  background: linear-gradient(90deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
-}
-
-.jumbotron-shadow.right {
-  right: 0;
-  background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, #000000 100%);
-}
-
-.jumbotron-inner-wrapper {
-  position: relative;
-  height: 100%;
-  }
 
 @media (min-width: 600px) {
   .mainpage_hero {
