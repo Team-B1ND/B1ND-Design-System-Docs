@@ -5,13 +5,13 @@ const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 const config = {
-  title: "Form B1nding",
+  title: "B1ND-Design-System",
   tagline: "Bind more easily",
   favicon: "img/favicon.ico",
   url: "https://Team-B1ND.github.io",
-  baseUrl: "/Form-B1nding-Docs/",
+  baseUrl: "/B1ND-Design-System/",
   organizationName: "Team-B1ND", // Usually your GitHub org/user name.
-  projectName: "Form-B1nding-Docs", // Usually your repo name.
+  projectName: "B1ND-Design-System", // Usually your repo name.
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   trailingSlash: false,
