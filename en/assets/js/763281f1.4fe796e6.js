@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdesigndocs=self.webpackChunkdesigndocs||[]).push([[5048],{4702:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/Form-B1nding-Docs/en/blog/tags/hello","allTagsPath":"/Form-B1nding-Docs/en/blog/tags","count":2}')}}]);
