@@ -6,11 +6,11 @@ SearchBar 특정 학생을 검색 할 때 사용하는 검색바를 손쉽게 �
 
 # Props
 
-| 속성 종류 | 속성 타입                        | 속성 값  | 옵셔널 여부 |
-| --------- | -------------------------------- | -------- | ----------- |
-| onSubmit  | void function                    | () => {} | x           |
-| onChange  | Dispatch<SetStateAction<string>> | setState | x           |
-| value     | string                           | string   | x           |
+| 속성 종류 | 속성 타입      | 속성 값  | 옵셔널 여부 |
+| --------- | -------------- | -------- | ----------- |
+| onSubmit  | void function  | () => {} | x           |
+| onChange  | SetStateAction | string   | x           |
+| value     | string         | string   | x           |
 
 # Example
 
