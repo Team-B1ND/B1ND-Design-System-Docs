@@ -2,7 +2,7 @@
 
 Button 컴포넌트는 도담도담 티쳐에서 수락과 거절 등 많은 사용되는 버튼을 손쉽게 구현할 수 있도록 해줍니다.
 
-![ButtonImage](../img/Button.png.png)
+![ButtonImage](../img/Button.png)
 
 ## Props
 
