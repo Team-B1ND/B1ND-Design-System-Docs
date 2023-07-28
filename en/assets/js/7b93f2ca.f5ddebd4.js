@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesigndocs=self.webpackChunkdesigndocs||[]).push([[117],{7221:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/B1ND-Design-System-Docs/en/blog/tags/hello","allTagsPath":"/B1ND-Design-System-Docs/en/blog/tags","count":2}')}}]);
