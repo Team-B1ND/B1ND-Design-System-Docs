@@ -9,7 +9,7 @@ const config = {
   tagline: "Bind more easily",
   favicon: "img/favicon.ico",
   url: "https://Team-B1ND.github.io",
-  baseUrl: "/B1ND-Design-System/",
+  baseUrl: "/B1ND-Design-System-Docs/",
   organizationName: "Team-B1ND", // Usually your GitHub org/user name.
   projectName: "B1ND-Design-System", // Usually your repo name.
   onBrokenLinks: "throw",
